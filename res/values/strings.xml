@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bCloud Lock Widget</string>
+    <string name="lock_notification">Your screens are now locked.</string>
+    <string name="dummy"></string>
+    <string name="title_activity_configure">Configure</string>
+    <string name="server">Server URL</string>
+    <string name="add_widget">Add widget</string>
+    <string name="api_key">API key</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
