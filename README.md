@@ -27,6 +27,7 @@ Additional information
 ======================
 
 *Package name*: org.stormhub.helix.bcloud
+
 *Date*: 2015-01-15
 
 bCloud and the bCloud logo are intellectual property of Peter Caprioli.
