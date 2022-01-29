@@ -1,7 +1,7 @@
 Summary
 =======
 
-bCloud Lock Widget designed for Android Jelly Bean and above.
+Lock widget for [bCloud](https://github.com/petcap/bCloud) designed for Android Jelly Bean and above. 
 
 Description
 ===========
